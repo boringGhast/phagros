@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQAAUAAACBiAEAiIgIAIiICACIiAgAiIgIAIiICACIiAgAiIgIAIiICACIiAgAiIgIAIiICACIiAgAiIgIAIiICACBiAEA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Tap"
+    },
+    "image4": {
+        "data": "hwQQAAUAAACZmQkAmZkJAJmZCQCZmQkAmZkJAJmZCQCZmQkAmZkJAJmZCQCZmQkAmZkJAJmZCQCZmQkAmZkJAJmZCQCZmQkA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Hold-body"
+    },
+    "image3": {
+        "data": "hwQQAAUAAACZmQkAmZkBAJmZAQCZmQEAmZkBAJmZAQCZmQEAmZkBAJmZAQCZmQEAmZkBAJmZAQCZmQEAmZkBAJmZAQCZmQkA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Hold-foot"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
